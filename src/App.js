@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
-import Summary from './Summary';
-import Header from './Header';
-import MainForm from './MainForm';
+import Summary from './Components/Summary';
+import Header from './Components/Header';
+import MainForm from './Components/MainForm';
 
 class App extends Component {
   constructor(props){
